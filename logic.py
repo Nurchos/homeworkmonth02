@@ -50,3 +50,4 @@ def play_game(min_number, max_number, attempts, starting_capital):
     print(f"Конец игры! Ваш капитал: {capital} монет.")
 
 
+print('сделал изменения на ветке hw_5')
